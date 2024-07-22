@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Where Every Frame Tells a Story – Dive into a Cinematic Adventure!",
+        "title": "Experience Cinema Like Never Before with HLO"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Where Every Frame Tells a Story – Dive into a Cinematic Adventure!",
+        "title": "Experience Cinema Like Never Before with HLO"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Where Every Frame Tells a Story – Dive into a Cinematic Adventure!",
+        "title": "Experience Cinema Like Never Before with HLO"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Where Every Frame Tells a Story – Dive into a Cinematic Adventure!",
+        "title": "Experience Cinema Like Never Before with HLO"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Where Every Frame Tells a Story – Dive into a Cinematic Adventure!",
+        "title": "Experience Cinema Like Never Before with HLO"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Where Every Frame Tells a Story – Dive into a Cinematic Adventure!",
+        "title": "Experience Cinema Like Never Before with HLO"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Where Every Frame Tells a Story – Dive into a Cinematic Adventure!",
+        "title": "Experience Cinema Like Never Before with HLO"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Where Every Frame Tells a Story – Dive into a Cinematic Adventure!",
+        "title": "Experience Cinema Like Never Before with HLO"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Where Every Frame Tells a Story – Dive into a Cinematic Adventure!",
+        "title": "Experience Cinema Like Never Before with HLO"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Experience Cinema Like Never Before with HLO",
+  "subtitle": "Where Every Frame Tells a Story – Dive into a Cinematic Adventure!"
+}
